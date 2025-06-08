@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_alert.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_area_food.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area_food.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_button.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_login_button.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_login_button.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_units.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_units.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_alert.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_alert.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_tab_selector.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_daily_workout.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily_workout.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_alert_training.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert_training.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_workout.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_google_button.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_google_button.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_daily.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_daily.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_switch_login.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_switch_login.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_kcal.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_kcal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_logo.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/xml_backup_rules.xml.flat",
+        "source": "com.nutriflex.app-main-53:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_area_gym.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area_gym.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_kcal_before.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal_before.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_gender.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_gender.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_profile.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_register_button.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_register_button.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_area.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_area.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/xml_data_extraction_rules.xml.flat",
+        "source": "com.nutriflex.app-main-53:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_fitness.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_fitness.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_splash.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/menu_bottom_navigation_menu.xml.flat",
+        "source": "com.nutriflex.app-main-53:/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_me.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_me.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_alert_meal.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert_meal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_area.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_goal.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_goal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_tab_indicator_selected.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/tab_indicator_selected.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_main.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_healthcare.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_healthcare.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_language.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_language.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_switch_register.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_switch_register.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_register.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_kcal.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_card.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_settings.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_calculator.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_calculator.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_edit.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/navigation_nav_graph.xml.flat",
+        "source": "com.nutriflex.app-main-53:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_daily.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_item_onboarding.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_daily_nutrition.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily_nutrition.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_input.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_input.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_tab_indicator_default.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/tab_indicator_default.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_me.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_me.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_bg_logout.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/bg_logout.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_google.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_google.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_profile.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.nutriflex.app-main-53:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_notification.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_notification.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_onboarding.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_nutrition.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_nutrition.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.nutriflex.app-main-53:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_activity_login.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_kcal_after.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal_after.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/layout_fragment_health.xml.flat",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_health.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-merged_res-51:/drawable_ic_theme.xml.flat",
+        "source": "com.nutriflex.app-main-53:/drawable/ic_theme.xml"
+    }
+]

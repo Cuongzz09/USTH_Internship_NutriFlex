@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_workout.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_health.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_health.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_alert.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_area.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_kcal.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_profile.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_area_food.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area_food.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_alert_training.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert_training.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_daily_nutrition.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily_nutrition.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_splash.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_me.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_me.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_login.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_daily_workout.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily_workout.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/item_onboarding.xml",
+        "source": "com.nutriflex.app-main-53:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_onboarding.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_kcal_after.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal_after.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_daily.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_daily.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_alert_meal.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_alert_meal.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_area_gym.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_area_gym.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_nutrition.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_nutrition.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/fragment_kcal_before.xml",
+        "source": "com.nutriflex.app-main-53:/layout/fragment_kcal_before.xml"
+    },
+    {
+        "merged": "com.nutriflex.app-mergeDebugResources-50:/layout/activity_register.xml",
+        "source": "com.nutriflex.app-main-53:/layout/activity_register.xml"
+    }
+]
