@@ -65,7 +65,9 @@ id btnNext
 id btnRegister
 id btnSave
 id btnSkip
+id btnStart
 id btnStartWorkout
+id btnStop
 id cardBMI
 id cardBreakfast
 id cardDinner
@@ -93,6 +95,7 @@ id ivEditWeight
 id ivImage
 id iv_logo
 id kcalFragment
+id mapView
 id meFragment
 id nav_graph
 id nav_host_fragment
@@ -127,6 +130,7 @@ id tvMealTitle
 id tvMuscleGroup
 id tvNutritionTitle
 id tvProgressTitle
+id tvResult
 id tvScheduleTitle
 id tvStreak
 id tvTitle
